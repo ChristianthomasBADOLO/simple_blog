@@ -1,0 +1,5 @@
+djando==0.2
+Django==4.2.3
+virtualenv==20.24.2
+virtualenv-clone==0.5.7
+virtualenvwrapper==4.8.4
